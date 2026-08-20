@@ -2,3 +2,4 @@ msmkls/daoliyu-music
 fooololo/aipan-netdisk-search
 lampon/omnibox
 logvar/danmu-api
+swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/xhongc/music_tag_web
